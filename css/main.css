@@ -11,17 +11,20 @@
   box-sizing: border-box;
 }
 
+/*Definición de estilo de body general con integración de tipografía para todo el cuerpo*/
 body {
   margin: 0 auto;
   font-size: 16px;
+  font-family: Raleway;
   line-height: 1.71429;
 }
 
 img {
   vertical-align: middle;
 }
-
-.container {
+/*creacion de clase de contenedor 1 para agregar imagen de fondo correspondiente*/
+.container1 {
+  background-image: url(../assets/images/bg-home.jpg);
   width: 1200px;
   margin-right: auto;
   margin-left: auto;
@@ -29,6 +32,15 @@ img {
   padding-right: 14px;
 }
 
+/*creacion de clase de contenedor 2 para agregar imagen de fondo correspondiente*/
+.container2 {
+  background-color: #f17c72;
+  width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 14px;
+  padding-right: 14px;
+}
 .container:before, .container:after {
   content: " ";
   display: table;
@@ -43,7 +55,6 @@ img {
 .container:after {
   clear: both;
 }
-
 .mb-0 {
   margin-bottom: 0px;
 }
@@ -72,13 +83,14 @@ a:hover {
 
 /*ESCRIBE TU CÓDIGO DESDE AQUÍ*/
 
-header, h1,h2,h4,h5,h6, p{
-	font-family: 'Raleway', sans-serif;
-
+.block1{
+	display: block;
+    text-align: center;
+    color: white;
+    padding-top: 30px;
 }
-
 #header{
-	background-color: #FFFFFF;
+  background-color: #FFFFFF;
   height:98px;
   padding-bottom: 12px;
 }
