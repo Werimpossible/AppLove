@@ -19,9 +19,11 @@ body {
   line-height: 1.71429;
 }
 
+
 img {
   vertical-align: middle;
 }
+
 /*creacion de clase de contenedor 1 para agregar imagen de fondo correspondiente*/
 .container1 {
   background-image: url(../assets/images/bg-home.jpg);
@@ -58,11 +60,9 @@ img {
 .mb-0 {
   margin-bottom: 0px;
 }
-
 .mt-0 {
   margin-top: 0px;
 }
-
 .m-0 {
   margin: 0px;
 }
@@ -89,11 +89,12 @@ a:hover {
     color: white;
     padding-top: 30px;
 }
-#header{
+header{
   background-color: #FFFFFF;
   height:98px;
   padding-bottom: 12px;
+  position: fixed;
 }
 #logo {
-	float: right;
+	display: inline-block;
 }
