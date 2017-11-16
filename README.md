@@ -1,27 +1,13 @@
 # AppLove
 
-* **Track:** _Common Core_
-* **Curso:** _Creando tu primer sitio web interactivo_
-* **Unidad:** _Maquetado web con HTML & CSS_
+Esta página sera capaz de hacer hover, ocupar fonts, integrar imagenes y ocupar todo el ancho de la pagina.
 
-***
-Para completar tu web **AppLove** hemos creado este repositorio boilerplate (plantilla inicial) con todos los recursos que necesitas. Esto incluye las imágenes y algunas clases CSS que ya hemos creado para ti :)
-
-## Flujo de trabajo: Empieza por realizar un fork y clonar este repositorio
-
-1. Debes realizar un [**fork**](https://gist.github.com/ivandevp/1de47ae69a5e139a6622d78c882e1f74) de este repositorio
-
-2. Luego deberás **clonar** tu fork en tu máquina. Recuerda que el comando a usar es `git clone` y su estructura normalmente se ve así:
-
-    ```bash
-    git clone https://github.com/<nombre-de-usuario>/AppLove.git
-    ```
+## Flujo de trabajo: 
+1. 
 
 ## Objetivo
 
-El reto consiste en maquetar la web **AppLove**, este es el resultado final:
-
-![AppLove](https://fotos.subefotos.com/1edc0aab51f1d624da4a24ab86129d87o.png) 
+Lograr una replica derl ejercicio dado en LMS [de este link] (https://lms.laboratoria.la/cohorts/cdmx-2017-10-bc-core-am/courses/interactive-site/00-html-and-css/14-guided-exercises) utilizando todas las herramientas desarrolladas durante el comienzo del Sprint 2.
 
 ## Detalles adicionales
 

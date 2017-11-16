@@ -59,6 +59,7 @@ img {
 a {
   color: #373B47;
   text-decoration: none;
+  margin-left: 51px;
 }
 
 a:hover {
@@ -71,3 +72,16 @@ a:hover {
 
 /*ESCRIBE TU CÓDIGO DESDE AQUÍ*/
 
+header, h1,h2,h4,h5,h6, p{
+	font-family: 'Raleway', sans-serif;
+
+}
+
+#header{
+	background-color: #FFFFFF;
+  height:98px;
+  padding-bottom: 12px;
+}
+#logo {
+	float: right;
+}
